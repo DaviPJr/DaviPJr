@@ -1,4 +1,5 @@
-<h2 align="left"> 👋 Olá! Me chamo Davi, sou um web developer focado em soluções criativas usando tecnologias modernas como React, Node.js e PostgreSQL. Estou sempre em busca de desafios para crescer na área de desenvolvimento web e entregar projetos de impacto!</h2>
+<h2 align="left"> Olá!👋 Me chamo Davi, sou um web developer! </h2>
+ <h3> Focado em soluções criativas usando tecnologias modernas como React, Node.js e PostgreSQL. Estou sempre em busca de desafios para crescer na área de desenvolvimento web e entregar projetos de impacto! </h3> 
 
 
 ###
